@@ -46,5 +46,7 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+|----------|------------|------|
+| SM1 - Corrida do Prompt | Técnicas de prompting para IA. | [Ver Projeto](LINK_AQUI) |
+| SM2 - Classificação Visual | Análise de imagens usando IA. | [Ver Projeto](LINK_AQUI) |
+| SM3 - Engenharia de Prompt | Uso avançado de prompts e XML. | [Ver Projeto](LINK_AQUI) |
