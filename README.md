@@ -47,4 +47,4 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para melhorar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes pessoas e contextos. | [Ver Projeto][Ver Projeto](./Projeto-criacao-de-imagem)
+| **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para melhorar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes pessoas e contextos. | [Ver Projeto](./Projeto-criacao-de-imagem)
