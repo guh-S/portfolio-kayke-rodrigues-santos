@@ -47,4 +47,4 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para melhorar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes pessoas e contextos. | [Ver Projeto](https://github.com/Naum-Gomes/portfolio-naum-goncalves-gomes/blob/47ca6206c42ece5373e0208c3ed9fd75fefa9351/projeto_batalhas_de_modelo_e_engenharia_de_promtp/README.md) |
+| **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para melhorar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes pessoas e contextos. | [Ver Projeto][Ver Projeto](./Projeto-criacao-de-imagem)
