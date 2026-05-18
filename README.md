@@ -48,3 +48,8 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **SM1 - A Corrida do Prompt** | Introdução prática aos fundamentos da Engenharia de Prompt. Foco na criação de instruções estruturadas para melhorar a qualidade das respostas de LLMs (Large Language Models), explorando diferentes pessoas e contextos. | [Ver Projeto](https://github.com/guh-S/portfolio-kayke-rodrigues-santos/tree/main/Projeto-cria%C3%A7%C3%A3o-de-imagem/SM1-corrida%20do%20prompt)
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **SM2 - Laboratório de Classificação Visual** | Experimentos com modelos de IA para classificação e análise de imagens. | [Ver Projeto](https://github.com/guh-S/portfolio-kayke-rodrigues-santos/tree/main/Projeto-cria%C3%A7%C3%A3o-de-imagem/SM1-corrida%20do%20prompt)
+
