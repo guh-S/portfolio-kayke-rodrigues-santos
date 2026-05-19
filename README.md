@@ -53,5 +53,7 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
 | :--- | :--- | :---: |
 | **SM2 - Laboratório de Classificação Visual** | Desenvolvimento e teste de modelos de visão computacional. Atividade focada na classificação de imagens, análise de padrões visuais e aplicação de tags para organização automatizada de ativos digitais. | [Ver Projeto](https://github.com/guh-S/portfolio-kayke-rodrigues-santos/tree/main/projeto-laboratorio-classificacao)
 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
 | **SM4 - Engenharia Reversa** |Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade.| [Ver Projeto](https://github.com/guh-S/portfolio-kayke-rodrigues-santos/tree/main/projeto-laboratorio-classificacao)
 
