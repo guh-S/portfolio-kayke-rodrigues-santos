@@ -63,7 +63,7 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM6 - Criação de Música por IA** |Exploração de modelos generativos de áudio para a criação de composições autorais e trilhas sonoras. A atividade envolveu a estruturação de prompts multimodais, o controle de intervalos rítmicos e melódicos via IA e a análise do impacto dessas tecnologias na indústria criativa e no desenvolvimento de interfaces sonoras.| [Ver Projeto]
+| **SM6 - Criação de Música por IA** |Exploração de modelos generativos de áudio para a criação de composições autorais e trilhas sonoras. A atividade envolveu a estruturação de prompts multimodais, o controle de intervalos rítmicos e melódicos via IA e a análise do impacto dessas tecnologias na indústria criativa e no desenvolvimento de interfaces sonoras.| [Ver Projeto](https://github.com/guh-S/portfolio-kayke-rodrigues-santos/tree/main/projeto-suno)
 
 
 | Projeto | Descrição | Link |
