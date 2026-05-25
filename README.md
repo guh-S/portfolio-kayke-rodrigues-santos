@@ -59,13 +59,13 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM5 - Engenharia Reversa** |Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade.| [Ver Projeto]
+| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** |Transformação de um conceito ou "clone" funcional em um MVP (Produto Mínimo Viável) robusto. Aplicação de metodologias ágeis para priorizar funcionalidades críticas e validar as previsões de mercado de uma solução baseada em IA.| [Ver Projeto]
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM6 - Engenharia Reversa** |Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade.| [Ver Projeto]
+| **SM6 - Criação de Música por IA** |Exploração de modelos generativos de áudio para a criação de composições autorais e trilhas sonoras. A atividade envolveu a estruturação de prompts multimodais, o controle de intervalos rítmicos e melódicos via IA e a análise do impacto dessas tecnologias na indústria criativa e no desenvolvimento de interfaces sonoras.| [Ver Projeto]
 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM7 - Engenharia Reversa** |Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade.| [Ver Projeto]
+| **SM7 -  Engenharia de Software e IA com Bubble.io** |Desenvolvimento de uma aplicação web completa utilizando a plataforma no-code Bubble.io. Integração de APIs de Inteligência Artificial para criar funcionalidades inteligentes, unindo princípios de engenharia de software com a agilidade do desenvolvimento visual.| [Ver Projeto]
