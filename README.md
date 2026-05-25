@@ -57,3 +57,15 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
 | :--- | :--- | :---: |
 | **SM4 - Engenharia Reversa** |Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade.| [Ver Projeto](https://github.com/guh-S/portfolio-kayke-rodrigues-santos/tree/main/SM4)
 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **SM5 - Engenharia Reversa** |Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade.| [Ver Projeto]
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **SM6 - Engenharia Reversa** |Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade.| [Ver Projeto]
+
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **SM7 - Engenharia Reversa** |Exercício de desconstrução de saídas de IA para identificar os prompts ou parâmetros originais. Foco em entender a lógica por trás de resultados específicos e aprimorar a capacidade de replicação de padrões de alta qualidade.| [Ver Projeto]
