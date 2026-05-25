@@ -1,4 +1,4 @@
-#Laboratório: Do Clone ao Produto Mínimo
+# Laboratório: Do Clone ao Produto Mínimo
 
 Este repositório apresenta o desenvolvimento e as reflexões teóricas do laboratório **"Do Clone ao Produto Mínimo"**. O projeto explora a transição da codificação manual para a arquitetura de sistemas assistida por Inteligência Artificial, focando na evolução do desenvolvedor como um estrategista técnico.
 
