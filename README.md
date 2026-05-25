@@ -59,7 +59,7 @@ Como acadêmico de Análise e Desenvolvimento de Sistemas pela UNICID, direciono
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** |Transformação de um conceito ou "clone" funcional em um MVP (Produto Mínimo Viável) robusto. Aplicação de metodologias ágeis para priorizar funcionalidades críticas e validar as previsões de mercado de uma solução baseada em IA.| [Ver Projeto]
+| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** |Transformação de um conceito ou "clone" funcional em um MVP (Produto Mínimo Viável) robusto. Aplicação de metodologias ágeis para priorizar funcionalidades críticas e validar as previsões de mercado de uma solução baseada em IA.| [Ver Projeto](https://github.com/guh-S/portfolio-kayke-rodrigues-santos/blob/main/projeto-produto-minimo-viavel/README.md)
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
