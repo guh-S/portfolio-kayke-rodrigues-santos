@@ -1,0 +1,27 @@
+import re
+
+senha = input("Digite sua senha: ")
+
+pontos = 0
+
+if len(senha) >= 8:
+    pontos += 1
+
+if re.search(r"[A-Z]", senha):
+    pontos += 1
+
+if re.search(r"[a-z]", senha):
+    pontos += 1
+
+if re.search(r"[0-9]", senha):
+    pontos += 1
+
+if re.search(r"[!@#$%^&*(),.?\":{}|<>]", senha):
+    pontos += 1
+
+if pontos <= 2:
+    print("Senha fraca")
+elif pontos <= 4:
+    print("Senha média")
+else:
+    print("Senha forte")
